@@ -1,4 +1,4 @@
-package com.example.barros_proyect.domain;
+/*package com.example.barros_proyect.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,3 +11,5 @@ public class UploadFileResponse {
     private String fileType;
     private long size;
 }
+
+ */

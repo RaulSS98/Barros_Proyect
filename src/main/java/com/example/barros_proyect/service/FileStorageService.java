@@ -1,4 +1,4 @@
-package com.example.barros_proyect.service;
+/*package com.example.barros_proyect.service;
 
 import com.example.barros_proyect.exception.FileStorageException;
 import com.example.barros_proyect.property.FileStorageProperties;
@@ -67,5 +67,7 @@ public class FileStorageService {
     }
 }
 
+
+ */
 
 

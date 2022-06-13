@@ -1,4 +1,4 @@
-package com.example.barros_proyect.controller;
+/*package com.example.barros_proyect.controller;
 
 import com.example.barros_proyect.domain.UploadFileResponse;
 import com.example.barros_proyect.service.FileStorageService;
@@ -65,3 +65,6 @@ public class FileController {
 
 
 }
+
+
+ */

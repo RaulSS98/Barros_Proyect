@@ -30,9 +30,9 @@ public class SwaggerConfiguration {
     @Bean
     public ApiInfo apiInfo(){
         return new ApiInfoBuilder()
-                .title("ApiRest Barros - Adrian Mosquera")
-                .description("Proyecto Barros. Hecho por Adrián Mosquera García. Asignaturas del proyecto: AD/DI/PSP - (Jesuitas)")
-                .contact(new Contact("Adrián Mosquera", "", "dam011.2021@gmail.com"))
+                .title("ApiRest Barros - Raul Santamaria")
+                .description("Proyecto Barros")
+                .contact(new Contact("Raul Santamaria", "", "dam16.2021@gmail.com"))
                 .version("0.1")
                 .build();
     }
